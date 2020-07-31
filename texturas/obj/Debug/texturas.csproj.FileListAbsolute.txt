@@ -1,0 +1,9 @@
+E:\JORGE\UMSA\INF-324\texturas\texturas\bin\Debug\texturas.exe.config
+E:\JORGE\UMSA\INF-324\texturas\texturas\bin\Debug\texturas.exe
+E:\JORGE\UMSA\INF-324\texturas\texturas\bin\Debug\texturas.pdb
+E:\JORGE\UMSA\INF-324\texturas\texturas\obj\Debug\texturas.Form1.resources
+E:\JORGE\UMSA\INF-324\texturas\texturas\obj\Debug\texturas.Properties.Resources.resources
+E:\JORGE\UMSA\INF-324\texturas\texturas\obj\Debug\texturas.csproj.GenerateResource.Cache
+E:\JORGE\UMSA\INF-324\texturas\texturas\obj\Debug\texturas.exe
+E:\JORGE\UMSA\INF-324\texturas\texturas\obj\Debug\texturas.pdb
+E:\JORGE\UMSA\INF-324\texturas\texturas\obj\Debug\texturas.csprojResolveAssemblyReference.cache
